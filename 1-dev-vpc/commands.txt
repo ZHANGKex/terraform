@@ -1,0 +1,4 @@
+# Run the aws configure aommand to set your access and secondary_private_ips
+aws condigure
+
+# Rename the terraform.tfc=vars.example file to terraform.tfvars and change the region
